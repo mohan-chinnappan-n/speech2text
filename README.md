@@ -1,4 +1,4 @@
-### Speech to text demo with command activation  with window.webkitSpeechRecognition 
+### Speech to text demo with command activation using  window.webkitSpeechRecognition 
 
 ![Demo1](img/speech2text-1.gif)
 
