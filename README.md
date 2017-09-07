@@ -2,7 +2,7 @@
 
 ![Demo1](img/speech2text-1.gif)
 
-###References>
+### References
   Based on Google Chromium team work. Looks for window.webkitSpeechRecognition
 
  1. [Web Speech API spec](https://dvcs.w3.org/hg/speech-api/raw-file/tip/speechapi.html)
